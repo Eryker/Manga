@@ -120,7 +120,10 @@ img:hover{
 	color: #ffffff;
 	transition: all 0.5s ease;
 }
-
+.footer-col ul li a:hover{
+	color: #ffffff;
+	padding-right: 8px;
+} 
 .footer-col .social-links a:hover{
 	color: #24262b;
 	background-color: #ffffff;
