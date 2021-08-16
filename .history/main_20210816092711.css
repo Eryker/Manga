@@ -57,7 +57,11 @@ ul {
   color: white;
 }
 
-
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
 
 h2, h3 {
   text-transform: uppercase;

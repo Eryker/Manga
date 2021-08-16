@@ -57,8 +57,6 @@ ul {
   color: white;
 }
 
-
-
 h2, h3 {
   text-transform: uppercase;
   font-family: "anime";
@@ -112,8 +110,7 @@ img:hover{
 
 .footer-col {
   margin: 0 auto;
-  width: 300px;
-  
+  width: 100px;
 }
 
 .footer-col .social-links a{

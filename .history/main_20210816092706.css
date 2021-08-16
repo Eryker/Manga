@@ -57,7 +57,11 @@ ul {
   color: white;
 }
 
-
+h4 {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
 
 h2, h3 {
   text-transform: uppercase;
@@ -111,9 +115,8 @@ img:hover{
 }
 
 .footer-col {
-  margin: 0 auto;
   width: 300px;
-  
+
 }
 
 .footer-col .social-links a{
